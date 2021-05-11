@@ -18,3 +18,4 @@ This is an front end project by using reactjs.
    2. Integers
 
 ![TAJMAHAL](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Taj-Mahal.jpg/800px-Taj-Mahal.jpg)
+
