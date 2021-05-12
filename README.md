@@ -11,7 +11,7 @@ This is an front end project by using reactjs.
 * vegetables
   * carrot
   * potato
-## ordered list
+# ordered list
 1. Alphabets
 2. Digits
    1. Whole numbers
@@ -19,3 +19,11 @@ This is an front end project by using reactjs.
 
 ![TAJMAHAL](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Taj-Mahal.jpg/800px-Taj-Mahal.jpg)
 
+[Google](https://www.google.com/)
+~~~python
+def fun():
+   print("Hai")
+~~~
+Table 1 | Table 2
+--------|--------
+Table body1|Table body2
